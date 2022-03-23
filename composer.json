@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "doctrine/dbal": "^2.10",
+        "php-ffmpeg/php-ffmpeg": "^0.14.0",
+        "zendframework/zend-dom": "^2.7",
+        "cocur/slugify": "^4.0"
+    }
+}
